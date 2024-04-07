@@ -4,7 +4,7 @@ This is an opensource slider for marco photography
 Currently using Swift for the IOS app and runs on an esp32s3 T-Display amoled fron Liligo with Arduino.
 The Adruino environment seems to be limited so it will move to C and C++ sooner or later.
 
-##The Rail :
+## The Rail :
 * 1x Stepper motor nema 17
 * 2x MGN12C rails 150mm
 * 1x T8 Pitch 2mm Lead 8mm, 150mm (plan to test 4, 2, 1 mm lead) gives a resolution up to 0.0014 mm
