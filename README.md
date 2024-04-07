@@ -22,3 +22,11 @@ The Adruino environment seems to be limited so it will move to C and C++ sooner 
   Xcode SwiftUI Project
 
 FreeDAC Project for the printed parts.
+Scematics, Gerber, BOM will follow.
+
+Why I do this ? I did not find anything pleasing for me on the market. Why not do it my self ?
+So I started putting some spare parts together. I had many plans for the features of the iOS app, finally I was pretty happy with the functions I made to test the communication.
+I am very new to Swift and Arduino code, an oppertunityy to learn the some cooding in Swift and Arduino. But the Arduino code has to move to C and C++.
+
+I clean the code and will put it here soon, as well as the other recources for the project.
+Constructive feedback is welcome.
